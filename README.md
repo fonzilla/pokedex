@@ -1,3 +1,7 @@
+## DEMO
+
+http://reactpokedex-amex.surge.sh/
+
 ## To Run locally
 
 Type into terminal:
